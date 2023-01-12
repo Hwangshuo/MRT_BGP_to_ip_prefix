@@ -24,6 +24,11 @@ TABLE_DUMP2|1325433592|B|195.66.224.68|30844|1.0.4.0/22|30844 6939 7545 7545 754
 ##### 4.we can use this program to get the FIB
 
 ```
+ make get_FIB
+```
+
+we will get the FIB like this 
+```
 0.0.0.0/0  0
 1.0.4.0/22  22
 1.0.25.0/24  24
